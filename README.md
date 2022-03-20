@@ -1,2 +1,1 @@
-# Transfer_Learning_MobileNetv2_Penguin
-Use MobileNet version 2 to retrain a classifier to classify Penguin 
+https://drive.google.com/drive/folders/1ENsZUkX4kBrxIvFuRdS2eX8Mq_GwY1Kj?usp=sharing
